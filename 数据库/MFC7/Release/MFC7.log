@@ -1,0 +1,192 @@
+﻿  MFC7Dlg.cpp
+MFC7Dlg.cpp(229): error C2664: “void CWnd::SetDlgItemTextW(int,LPCTSTR)”: 无法将参数 2 从“const char [7]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(229): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(230): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [7]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(230): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(231): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [5]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(231): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(232): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [5]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(232): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(233): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [5]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(233): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(234): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [9]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(234): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(235): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [7]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(235): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(236): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [9]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(236): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(237): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [9]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(237): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(238): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [9]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(238): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(239): error C2664: “int CComboBox::InsertString(int,LPCTSTR)”: 无法将参数 2 从“const char [11]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(239): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(586): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+MFC7Dlg.cpp(592): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+MFC7Dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CString”
+MFC7Dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“CString”
+MFC7Dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CString”
+MFC7Dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 5 拥有了类型“CString”
+MFC7Dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 6 拥有了类型“CString”
+MFC7Dlg.cpp(607): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(632): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(632): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(633): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(633): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(634): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(634): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(635): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(635): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(636): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(636): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(637): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(637): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(638): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(638): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(639): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(639): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(640): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(640): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(653): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(653): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(690): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+MFC7Dlg.cpp(728): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(728): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(670): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(715): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(733): error C2065: “Lmessage”: 未声明的标识符
+MFC7Dlg.cpp(789): error C2440: “初始化”: 无法从“wchar_t *”转换为“char *”
+  MFC7Dlg.cpp(789): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(795): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(798): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(801): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(804): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(807): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(810): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(813): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(816): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(819): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(822): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(826): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(870): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(870): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(871): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(871): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(872): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(872): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(873): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(873): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(874): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(874): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(875): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(875): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(876): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(876): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(877): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(877): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(878): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(878): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(879): error C2664: “BOOL CListCtrl::SetItemText(int,int,LPCTSTR)”: 无法将参数 3 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(879): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(925): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+MFC7Dlg.cpp(948): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(948): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(949): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(949): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(950): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(950): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(951): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(951): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(952): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(952): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(953): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(953): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(954): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(954): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(955): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(955): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(956): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(956): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(905): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1020): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+MFC7Dlg.cpp(1026): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+MFC7Dlg.cpp(1058): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1058): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1059): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1059): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1060): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1060): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1061): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1061): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1062): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1062): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1063): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1063): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1064): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1064): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1065): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1065): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1066): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1066): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1067): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“const char [1]”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1067): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CString”
+MFC7Dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“CString”
+MFC7Dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CString”
+MFC7Dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 5 拥有了类型“CString”
+MFC7Dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 6 拥有了类型“CString”
+MFC7Dlg.cpp(1041): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1085): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1085): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1086): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1086): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1087): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1087): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1088): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1088): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1089): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1089): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1090): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1090): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1091): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1091): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1092): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1092): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1093): error C2664: “void CWnd::SetWindowTextW(LPCTSTR)”: 无法将参数 1 从“char *”转换为“LPCTSTR”
+  MFC7Dlg.cpp(1093): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换
+MFC7Dlg.cpp(1173): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1176): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1179): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1182): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1185): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1188): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1191): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1194): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1197): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+MFC7Dlg.cpp(1200): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明

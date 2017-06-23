@@ -1,0 +1,75 @@
+﻿  stdafx.cpp
+  MFC7Dlg.cpp
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(586): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(592): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 5 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(608): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 6 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(607): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(690): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(670): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(715): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(795): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(798): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(801): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(804): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(807): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(810): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(813): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(816): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(819): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(822): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(826): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(925): warning C4244: “初始化”: 从“my_ulonglong”转换到“int”，可能丢失数据
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(905): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1020): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1026): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 2 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 3 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 4 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 5 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1042): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 6 拥有了类型“CString”
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1041): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1173): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1176): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1179): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1182): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1185): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1188): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1191): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1194): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1197): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+d:\works\程序实习\mfc7\mfc7\mfc7\mfc7dlg.cpp(1200): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 参见“sprintf”的声明
+  MFC7.cpp
+  正在生成代码...
+LINK : warning LNK4010: 子系统版本号 5 无效；假定为默认子系统版本
+  MFC7.vcxproj -> D:\works\程序实习\MFC7\MFC7\Debug\MFC7.exe
+  MFC7.vcxproj -> D:\works\程序实习\MFC7\MFC7\Debug\MFC7.pdb (Partial PDB)
