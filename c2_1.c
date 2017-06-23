@@ -27,16 +27,15 @@ int find_king(int arr[], int arr_len, int n)
 
 	if(arr_len - n >= 0)
 	{
-		arr[n - 1] = -1;
 		out = n - 1;
-	} else
+	}
+	else
 	{
 		out = n - arr_len - 1;
 		while(out > arr_len - 1)
 		{
 			out = out - arr_len - 1;
 		}
-		arr[out] = -1;//将淘汰猴子置为-1
 	}
 	
 	arr_len--;
@@ -44,20 +43,14 @@ int find_king(int arr[], int arr_len, int n)
 	
 	for(i = out + 1; i < arr_len + 1; i++)//遍历淘汰猴子后面部分,组成新数组
 	{
-		if(arr[i] != -1)
-		{
-			new_arr[j] = arr[i];
-			j++;
-		}
+		new_arr[j] = arr[i];
+		j++;
 	}
 	
 	for(i = 0; i < out; i++)//遍历淘汰猴子前面部分,添加到新数组后面
 	{
-		if(arr[i] != -1)
-		{
-			new_arr[j] = arr[i];
-			j++;
-		}
+		new_arr[j] = arr[i];
+		j++;
 	}
 	
 	return arr_len == 1 ? new_arr[0] : find_king(new_arr, arr_len, n);
