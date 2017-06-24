@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\桌面\程序实习\c5\c5\c5\main.cpp(84): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  c5.vcxproj -> E:\桌面\程序实习\c5\c5\Debug\c5.exe
+  c5.vcxproj -> E:\桌面\程序实习\c5\c5\Debug\c5.pdb (Partial PDB)

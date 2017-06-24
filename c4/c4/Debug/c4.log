@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\桌面\程序实习\c4\c4\c4\main.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+  c4.vcxproj -> E:\桌面\程序实习\c4\c4\Debug\c4.exe
+  c4.vcxproj -> E:\桌面\程序实习\c4\c4\Debug\c4.pdb (Partial PDB)

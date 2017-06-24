@@ -19,9 +19,9 @@ int main()
 		}
 		else
 		{
-			new_str.append(str.substr(i, 1));
-			new_str.append(to_string(length));
-			length = 1;
+			new_str.append(str.substr(i, 1));//添加数字
+			new_str.append(to_string(length));//添加长度
+			length = 1;//长度归位
 		}
 	}
 	cout << new_str << endl;
